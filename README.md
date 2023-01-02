@@ -1,5 +1,7 @@
 # Tareas Introducción al Deep Learning IN6535 
 
+El presente repositorio contiene las tareas y mi resolución para el curso Introducción al Deep Learning del departamento de Ingeniería Industrial de la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile.
+
 ## Tarea 1
 
 - Objetivo: Definir la política de inventario respecto a qué productos dejar de vender y cuales no. Utilizando una arquitectura *feedforward*.
